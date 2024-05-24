@@ -1,0 +1,33 @@
+        /*
+        h1 {
+            color: blue;
+        }
+        */
+
+        img {
+            width: 200px;
+            height: 200px;
+         }
+         .title {
+            color: brown;
+         }
+         
+        /*           
+        .sub-title{
+            color: rgb(41, 44, 192);
+        } */
+
+        #pw-subtitle {
+            color: blue;
+        }
+        #aakash {
+            color: aqua;
+        }
+
+        .banner{
+            width: 900px;
+            height:600px ;
+            background-color: rgb(236, 13, 13);
+            background-image: url(https://sc0.blr1.cdn.digitaloceanspaces.com/article/142793-nwkqunwnww-1591973793.jpg) ;
+        }
+        
